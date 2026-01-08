@@ -1,4 +1,5 @@
 # Echoes-of-Emotion
+<p>◦ An audio-based mood prediction model using multiple classifiers, with Random Forest achieving 98% accuracy and confidence scoring to improve prediction reliability. Integrated generative AI to deliver tailored article and music along with web-scraped poetry and mood-aligned image selection for recommendations based on mood prediction</p>
 <h2> Project Flow </h2>
 <img width="1042" height="590" alt="image" src="https://github.com/user-attachments/assets/ef828c8e-ab38-4bbb-a4b5-862c70e1fd7f" />
 <h2> Demo Output</h2>
